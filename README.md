@@ -1,3 +1,3 @@
 # covid19_brazil
 
-Análise do crescimento de novos casos no brasil no mês de Janeiro de 2022
+Análise do crescimento de novas mortes no brasil no mês de Janeiro de 2022
